@@ -1,0 +1,27 @@
+form{
+   
+    color: blanchedalmond;
+}
+form:hover{
+    background-color: blanchedalmond;
+    
+    
+    width: 40%; 
+    height: 59%;  
+
+ 
+
+}
+ 
+
+button{
+    width: 180px;
+    height: 30px;
+    background-color: rgb(39, 105, 96);
+    font-size: medium;
+   
+   
+
+   
+
+}
